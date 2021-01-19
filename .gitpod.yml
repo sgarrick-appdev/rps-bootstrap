@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2021-rps-bootstrap:test
+image: jelaniwoods/appdev2021-rps-bootstrap:test2
 
 tasks:
   - init: bin/setup
